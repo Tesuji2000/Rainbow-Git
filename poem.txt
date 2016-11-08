@@ -8,3 +8,4 @@ Yellow
 Green
 Blue
 Purple
+Violet
