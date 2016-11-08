@@ -3,6 +3,7 @@ The Rainbow
 Following Daniel's video 1.1
 
 Red
+Orange
 Yellow
 Green
 Blue
