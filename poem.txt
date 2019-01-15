@@ -6,6 +6,7 @@ Red
 Orange
 Yellow
 Green
+recyle!
 Blue
 Purple
 Violet
